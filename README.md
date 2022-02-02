@@ -1,2 +1,4 @@
 # VisualG-PT-BR-
-Lógica de programação em VisualG
+some VisualG programming logic code
+
+for more info about VisualG, open the VisualG directory.
